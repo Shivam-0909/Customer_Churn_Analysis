@@ -1,4 +1,8 @@
-# Customer Churn Analysis 
+# Customer Churn Analysis of PhoneNow Company
+
+![Screenshot (11)](https://github.com/Shivam-0909/Customer_Churn_Analysis/assets/173950776/4833ea87-7daa-40b7-bc36-97c6c1555e43)
+
+![Screenshot (12)](https://github.com/Shivam-0909/Customer_Churn_Analysis/assets/173950776/8c375ce7-74cb-4484-97b8-7eeee3faa322)
 
 ## Table of Contents:
 - [Project Summary](#project-summary)
@@ -12,7 +16,7 @@
 The Telecommunications Retention Manager is actively pursuing an all-encompassing solution to boost customer retention and reduce customer attrition. This includes gaining a deep understanding of customer retention strategies, the reasons behind customer acquisition, and the distribution of customers across various factors.
 
 ### Data Source: 
-**Customer Attrition Dataset**: This dataset is derived from the PwC Switzerland Virtual Internship Program provided by Forage, which includes information on Gender distribution, tenure, Internet service, Online security, Tech support, contract type, payment method, among others.
+**Churn-Dataset**: This dataset is derived from the PwC Switzerland Virtual Internship Program provided by Forage, which includes information on Gender distribution, tenure, Internet service, Online security, Tech support, contract type, payment method, among others.
 
 ### Tools Utilized:
 - **PowerBI** - Developing Dashboards and Data Visualization
