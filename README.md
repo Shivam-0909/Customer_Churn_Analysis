@@ -9,19 +9,15 @@
 - [Recommendations](#recommendations)
   
 ### Project Summary 📋
-<a name="project-summary"></a>
 The Telecommunications Retention Manager is actively pursuing an all-encompassing solution to boost customer retention and reduce customer attrition. This includes gaining a deep understanding of customer retention strategies, the reasons behind customer acquisition, and the distribution of customers across various factors.
 
 ### Data Source 🗂️
-<a name="data-source"></a>
 **Customer Attrition Dataset**: This dataset is derived from the PwC Switzerland Virtual Internship Program provided by Forage, which includes information on Gender distribution, tenure, Internet service, Online security, Tech support, contract type, payment method, among others.
 
 ### Tools Utilized 🛠️
-<a name="tools-utilized"></a>
 - **PowerBI** - Developing Dashboards and Data Visualization
 
 ### Data Preparation 🧹
-<a name="data-preparation"></a>
 Here's a brief overview of the steps taken in the project:
 1. **Data Preparation**: Ensured the data was clean, well-organized, and ready for analysis.
 2. **Data Modeling**: Organized the data for efficient analysis using Power BI.
@@ -32,7 +28,6 @@ Here's a brief overview of the steps taken in the project:
 ### Insights 💡
 
 #### 1. Overview 📈
-<a name="insights"></a>
 - **Total customers**: 7043
 - **Retained customers**: 5174
 - **Churned customers**: 1869
@@ -56,7 +51,6 @@ Here's a brief overview of the steps taken in the project:
 - Encouraging customers to subscribe to longer-term contracts and plans could be beneficial.
 
 ### Recommendations 📝
-<a name="recommendations"></a>
 Based on the analysis, the following are some actionable recommendations:
 - Promote One-Year and Two-Year contracts with incentives to offset the higher monthly costs.
 - Offer targeted discounts to Month-to-Month subscribers to improve retention.
